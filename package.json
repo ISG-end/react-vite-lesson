@@ -2,7 +2,8 @@
   "name": "react-vite-lesson",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
+  "type": "module",   
+  "homepage": "https://ISG-end.github.io/react-vite-lesson.github.io/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
