@@ -1,3 +1,5 @@
+https://isg-end.github.io/react-vite-lesson/
+
 # Запуск проекта
 npm run dev
 
